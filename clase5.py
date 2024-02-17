@@ -5,11 +5,8 @@ def factorial (n):
     else: 
         return n * factorial(n-1)
 
-
-
-#pedir el numero
 # ejemplo de uso
-numero = n01
+numero = 5
 resultado = factorial(numero)
 print (f"El factorial de {numero} es : {resultado}")
 
