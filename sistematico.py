@@ -10,5 +10,4 @@ class Rectangulo:
 # creo los objeros para calcular el area de diferentes rectangulo
 rectangulo1 = Rectangulo(10,8)
 rectangulo1.calcular()
-          
                  
