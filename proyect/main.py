@@ -12,6 +12,7 @@ students.append(student3)
 # mostrar lista
 for stu in students: 
     print (stu)
+    print("HOLA")
 
     
 
